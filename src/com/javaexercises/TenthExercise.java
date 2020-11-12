@@ -13,6 +13,7 @@ public class TenthExercise {
         4 231 b > a && b > c && a > c bac
         5 312 a > b && a > c && c > b acb
         6 321 a > b && a > c && b > c abc
+        //
          */
 
         int a = 2, b = 9    , c = 11;
