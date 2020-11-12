@@ -16,7 +16,7 @@ public class TenthExercise {
         //
          */
 
-        int a = 2, b = 9    , c = 11;
+        int a = 2, b = 9, c = 11;
 
         if (c > a && c > b && b > a) {
             System.out.println(c + "" + b + "" + a);
