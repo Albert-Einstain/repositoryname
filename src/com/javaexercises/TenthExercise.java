@@ -26,7 +26,7 @@ public class TenthExercise {
 
          */
 
-        int a = 3, b = 5, c = 4;
+        int a = 4, b = 3, c = 5;
 
         if (a > b && a > c) {
             if (c > b) {
